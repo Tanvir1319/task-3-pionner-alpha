@@ -1,7 +1,7 @@
 # Flutter ecommerce App two screens --task 3
 
 Given task-3 is done by me
-## 🤓 Author(s)
+##  Author(s)
 **Md Tanvir Islam
 
 
@@ -9,6 +9,11 @@ Given task-3 is done by me
 
 ## ScreenShots 
 ### Login Screen
+![Screenshot_2023-06-19-19-56-30-055_com example task_3_pionneralpha](https://github.com/Tanvir1319/task-3-pionner-alpha/assets/113799587/64d15374-0450-4917-8809-202ed38b379c)
+
+
+
+### Home Screen with sorting option
 
 
 ### Products Screen & Product Detail Screen
