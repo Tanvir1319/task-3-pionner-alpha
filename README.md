@@ -32,13 +32,10 @@ Given task-3 is done by me
 
 
 ### Empty cart screen
+![aq](https://github.com/Tanvir1319/task-3-pionner-alpha/assets/113799587/50c2023f-27b8-4c45-a21c-0a8cb663ab4a)
 
 
 ### Logout option
 
 
-## ✨ Requirements
-* Any Operating System (ie. MacOS X, Linux, Windows)
-* Any IDE with Flutter SDK installed (ie.  Android Studio, VSCode, IntelliJ, etc)
-* A little knowledge of Dart and Flutter
-* A brain to think 🤓🤓
+
