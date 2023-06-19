@@ -15,9 +15,12 @@ Given task-3 is done by me
 
 ### Home Screen with sorting option
 
+![Screenshot_2023-06-19-19-56-40-295_com example task_3_pionneralpha 1](https://github.com/Tanvir1319/task-3-pionner-alpha/assets/113799587/1125acf5-ff73-425c-8983-a5d72b5ad957)
 
-### Products Screen & Product Detail Screen
-<img src="screens/product_screen.png" height="500em" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="screens/product_detail_screen.png" height="500em" />
+![Screenshot_2023-06-19-19-56-46-149_com example task_3_pionneralpha](https://github.com/Tanvir1319/task-3-pionner-alpha/assets/113799587/56bb324e-1f6f-43e6-a6d4-c292d92f25cf)
+
+###  Product Detail Screen
+
 
 ### Login & Registration Screen
 <img src="screens/login_screen.jpg" height="500em" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="screens/signin_screen.jpg" height="500em" />
