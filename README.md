@@ -21,11 +21,15 @@ Given task-3 is done by me
 
 ###  Product Detail Screen
 
+![Screenshot_2023-06-19-19-56-58-300_com example task_3_pionneralpha](https://github.com/Tanvir1319/task-3-pionner-alpha/assets/113799587/1eb7ce8b-4423-440e-a557-a6321158a57f)
 
-### Login & Registration Screen
-<img src="screens/login_screen.jpg" height="500em" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="screens/signin_screen.jpg" height="500em" />
+
+![Screenshot_2023-06-19-19-56-54-725_com example task_3_pionneralpha](https://github.com/Tanvir1319/task-3-pionner-alpha/assets/113799587/063d68f0-7f75-4a65-b476-cecdf8860a42)
+
+### Cart Screen
+
 ### Wish list and Empty cart screen
-<img src="screens/wishlist_screen.jpg" height="500em" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="screens/empty_cart_screen.jpg" height="500em" />
+
 
 ## ✨ Requirements
 * Any Operating System (ie. MacOS X, Linux, Windows)
