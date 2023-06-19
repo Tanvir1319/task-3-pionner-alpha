@@ -31,7 +31,7 @@ Given task-3 is done by me
 ![Screenshot_2023-06-19-19-57-04-828_com example task_3_pionneralpha](https://github.com/Tanvir1319/task-3-pionner-alpha/assets/113799587/b883ad72-ba7a-4061-a2b3-d45d33fd74f9)
 
 
-### Wish list and Empty cart screen
+### Empty cart screen
 
 
 ### Logout option
